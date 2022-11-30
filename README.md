@@ -16,3 +16,6 @@ Fig. - Noisy audio
 Fig. - Predicted/ noise suppressed audio by the model
 
 Tech Stack : Python,TensorFlow, Librosa, Keras.
+
+
+Collaborators - Aditya Saxena, Vedanshu Dewangan, Rahul Thakur
